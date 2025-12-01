@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@adviser/cement": "^0.5.2",
-    "@cloudflare/workers-types": "^4.20251121.0",
+    "@cloudflare/workers-types": "^4.20251128.0",
     "@fireproof/cloud-backend-base": "workspace:0.0.0",
     "@fireproof/cloud-base": "workspace:0.0.0",
     "@fireproof/core-protocols-cloud": "workspace:0.0.0",
@@ -50,15 +50,15 @@
     "@fireproof/vendor": "workspace:0.0.0",
     "cmd-ts": "^0.14.3",
     "drizzle-orm": "^0.44.7",
-    "hono": "^4.10.6",
+    "hono": "^4.10.7",
     "multiformats": "^13.4.0"
   },
   "devDependencies": {
     "@fireproof/core-cli": "workspace:0.0.0",
     "drizzle-kit": "0.30.6",
-    "tsx": "^4.20.4",
+    "tsx": "^4.21.0",
     "vitest": "^4.0.8",
-    "wrangler": "^4.50.0",
+    "wrangler": "^4.51.0",
     "zx": "^8.8.5"
   }
 }
